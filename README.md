@@ -5,8 +5,6 @@
 ## Acknowledgements
 This repository was created as a project for the English 105 class at the University of North Carolina at Chapel Hill. 
 
-## Table of Contents
-
 ---
 
 ## Introduction to the Repository
