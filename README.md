@@ -3,8 +3,8 @@
 ---
 
 ## Acknowledgements
-This repository was created as a project for the English 105 class at the University of North Carolina at Chapel Hill. 
-
+- This repository was created as a project for the English 105 class taught by Prof. Gotzler at the University of North Carolina at Chapel Hill in the Fall 2023 semester. 
+- The NC Mental Health dataset was compiled using a Python notebook through [Google Colabotory](https://colab.google/).
 ---
 
 ## Introduction to the Repository
@@ -16,13 +16,16 @@ To bring attention to the difference between the number of mental health provide
 - Original .csv file for the dataset used to compile a data subset.
 - The final .csv file for the compiled dataset.
 
-### What this Repository Can be Used For
-- To determine new ways to improve mental health aid across the state of North Carolina. 
+### Uses for this Repository
+- To determine new ways to improve mental health aid across the state of North Carolina.
+- To analyze the trends of mental health across various counties.
+- This data could be looked at by psychologists or anyone interested in studying trends of mental health in North Carolina counties. 
 
+---
 
 ## Getting Started 
-### Locating Files 
-The County Health .csv file is the only file that was used to compile the NC Mental Health subset. It can be found at the top of the repository. 
+### Locating & Importing Files
+The County Health .csv file is the only file that was used to compile the NC Mental Health subset. It can be found linked at the top of the repository. 
 - Download the County Health .csv file and upload it into a program that runs Python. (Google Colabotory is what was used to create this subset, but any program that runs Python will work.)
-- Make sure to import the Pandas package into your Python notebook. Further instructions for importing Pandas can be found in the Python notebook. (This notebook is linked at the top of the repository as well, labelled as "Documentation").
+- Make sure to import the Pandas package into your Python notebook. Further instructions for importing Pandas can be found in the Python notebook. (This notebook is linked at the top of the repository as well, linked as "Documentation.ipynb").
   
